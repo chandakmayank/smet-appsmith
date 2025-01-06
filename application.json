@@ -1,5 +1,8 @@
 {
   "appIsExample": false,
+  "appLayout": {
+    "type": "DESKTOP"
+  },
   "applicationDetail": {
     "navigationSetting": {
       "colorStyle": "light",
@@ -21,12 +24,40 @@
   "collapseInvisibleWidgets": true,
   "color": "#F1DEFF",
   "evaluationVersion": 2,
+  "icon": "globe",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Dashboard",
+      "isDefault": false
+    },
+    {
+      "id": "Orders",
+      "isDefault": false
+    },
+    {
+      "id": "Customers",
+      "isDefault": false
+    },
+    {
+      "id": "Products",
+      "isDefault": false
+    },
+    {
+      "id": "Returns",
+      "isDefault": false
+    },
+    {
+      "id": "Authentication",
+      "isDefault": false
+    },
+    {
+      "id": "Home Page",
       "isDefault": true
     }
   ],
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedApplicationDetail": {
     "navigationSetting": {
       "colorStyle": "light",

@@ -16,8 +16,8 @@
       }
     },
     "colors": {
-      "backgroundColor": "#fdf2f8",
-      "primaryColor": "#db2777"
+      "backgroundColor": "#f8fafc",
+      "primaryColor": "#64748b"
     },
     "fontFamily": {
       "appFont": [
@@ -33,24 +33,24 @@
         "Ubuntu"
       ]
     },
-    "order": 4
+    "order": 8
   },
-  "displayName": "Water Lily",
+  "displayName": "Moon",
   "isSystemTheme": false,
-  "name": "Rounded",
+  "name": "Sharp",
   "properties": {
     "borderRadius": {
-      "appBorderRadius": "1.5rem"
+      "appBorderRadius": "0px"
     },
     "boxShadow": {
-      "appBoxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+      "appBoxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)"
     },
     "colors": {
-      "backgroundColor": "#fdf2f8",
-      "primaryColor": "#db2777"
+      "backgroundColor": "#f8fafc",
+      "primaryColor": "#64748b"
     },
     "fontFamily": {
-      "appFont": "Open Sans"
+      "appFont": "Inter"
     }
   },
   "stylesheet": {
