@@ -1,7 +1,7 @@
 {
   "appIsExample": false,
   "appLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "applicationDetail": {
     "navigationSetting": {
@@ -28,10 +28,18 @@
   "pages": [
     {
       "id": "Dashboard",
+      "isDefault": true
+    },
+    {
+      "id": "Products",
       "isDefault": false
     },
     {
-      "id": "Orders",
+      "id": "Inventory",
+      "isDefault": false
+    },
+    {
+      "id": "Asset Dashboard",
       "isDefault": false
     },
     {
@@ -39,7 +47,7 @@
       "isDefault": false
     },
     {
-      "id": "Products",
+      "id": "Orders",
       "isDefault": false
     },
     {
@@ -47,16 +55,24 @@
       "isDefault": false
     },
     {
+      "id": "Profile",
+      "isDefault": false
+    },
+    {
       "id": "Authentication",
       "isDefault": false
     },
     {
-      "id": "Home Page",
-      "isDefault": true
+      "id": "Offers",
+      "isDefault": false
+    },
+    {
+      "id": "Transactions",
+      "isDefault": false
     }
   ],
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "FLUID"
   },
   "unpublishedApplicationDetail": {
     "navigationSetting": {
