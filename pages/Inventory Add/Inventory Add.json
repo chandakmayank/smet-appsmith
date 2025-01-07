@@ -1,23 +1,23 @@
 {
-  "gitSyncId": "677c2104c601175e7b8aed2e_72096ce9-9585-4568-9b17-d7cabfe9af1b",
+  "gitSyncId": "677c2104c601175e7b8aed2e_06c6b459-0c8e-41ee-80aa-56d57604b2fd",
   "unpublishedPage": {
     "isHidden": false,
     "layouts": [
       {
         "dsl": {
           "backgroundColor": "none",
-          "bottomRow": 1300,
+          "bottomRow": 500,
           "canExtend": true,
           "containerStyle": "none",
           "detachFromLayout": true,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "minHeight": 790,
+          "minHeight": 970,
           "parentColumnSpace": 1,
           "parentRowSpace": 1,
-          "rightColumn": 1224,
+          "rightColumn": 1280,
           "snapColumns": 64,
-          "snapRows": 77,
+          "snapRows": 125,
           "topRow": 0,
           "type": "CANVAS_WIDGET",
           "version": 90,
@@ -26,7 +26,7 @@
         }
       }
     ],
-    "name": "Profile",
-    "slug": "profile"
+    "name": "Inventory Add",
+    "slug": "inventory-add"
   }
 }

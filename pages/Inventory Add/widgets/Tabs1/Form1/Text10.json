@@ -14,7 +14,6 @@
     }
   ],
   "dynamicHeight": "AUTO_HEIGHT",
-  "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1.25rem",
   "fontStyle": "BOLD",
@@ -30,21 +29,19 @@
   "mobileRightColumn": 25.5,
   "mobileTopRow": 1,
   "needsErrorInfo": false,
-  "originalBottomRow": 7,
-  "originalTopRow": 1,
   "overflow": "NONE",
-  "parentId": "7hp8dpwajm",
+  "parentId": "axa8eksa1f",
   "renderMode": "CANVAS",
   "responsiveBehavior": "fill",
   "rightColumn": 25.5,
   "shouldTruncate": false,
-  "text": "Setup your business profile",
+  "text": "Form",
   "textAlign": "LEFT",
   "textColor": "#231F20",
   "topRow": 1,
   "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "uhh2aakqdp",
-  "widgetName": "Text1"
+  "widgetId": "9ujyh340po",
+  "widgetName": "Text10"
 }

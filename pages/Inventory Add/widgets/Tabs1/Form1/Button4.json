@@ -1,11 +1,11 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 79,
+  "bottomRow": 37,
   "boxShadow": "none",
   "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
-  "buttonVariant": "PRIMARY",
-  "disabledWhenInvalid": true,
+  "buttonVariant": "SECONDARY",
+  "disabledWhenInvalid": false,
   "dynamicBindingPathList": [
     {
       "key": "buttonColor"
@@ -19,24 +19,24 @@
   "isLoading": false,
   "isVisible": true,
   "key": "ch2ab1kzqu",
-  "leftColumn": 20,
+  "leftColumn": 30,
   "minWidth": 120,
   "mobileBottomRow": 37,
-  "mobileLeftColumn": 46,
-  "mobileRightColumn": 62,
+  "mobileLeftColumn": 30,
+  "mobileRightColumn": 46,
   "mobileTopRow": 33,
   "needsErrorInfo": false,
-  "parentId": "7hp8dpwajm",
+  "parentId": "axa8eksa1f",
   "placement": "CENTER",
   "recaptchaType": "V3",
   "renderMode": "CANVAS",
   "resetFormOnClick": true,
   "responsiveBehavior": "hug",
-  "rightColumn": 33,
-  "text": "Submit",
-  "topRow": 75,
+  "rightColumn": 46,
+  "text": "Reset",
+  "topRow": 33,
   "type": "BUTTON_WIDGET",
   "version": 1,
-  "widgetId": "9t1d87la0l",
-  "widgetName": "Button1"
+  "widgetId": "fsp02x9sr0",
+  "widgetName": "Button4"
 }

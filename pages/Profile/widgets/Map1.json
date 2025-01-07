@@ -1,0 +1,56 @@
+{
+  "allowZoom": true,
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 130,
+  "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+  "defaultMarkers": [
+    {
+      "lat": 25.122,
+      "long": 50.132,
+      "title": "Location1"
+    }
+  ],
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "boxShadow"
+    }
+  ],
+  "enableMapTypeControl": false,
+  "enablePickLocation": true,
+  "enableSearch": true,
+  "flexVerticalAlignment": "start",
+  "isClickedMarkerCentered": true,
+  "isDisabled": false,
+  "isLoading": false,
+  "isVisible": true,
+  "key": "8zuns7knaz",
+  "leftColumn": 3,
+  "mapCenter": {
+    "lat": 25.122,
+    "long": 50.132
+  },
+  "minWidth": 450,
+  "mobileBottomRow": 65,
+  "mobileLeftColumn": 38,
+  "mobileRightColumn": 62,
+  "mobileTopRow": 25,
+  "needsErrorInfo": false,
+  "originalBottomRow": 130,
+  "originalTopRow": 90,
+  "parentColumnSpace": 16.375,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 63,
+  "topRow": 90,
+  "type": "MAP_WIDGET",
+  "version": 1,
+  "widgetId": "3end8wrils",
+  "widgetName": "Map1",
+  "zoomLevel": 50
+}

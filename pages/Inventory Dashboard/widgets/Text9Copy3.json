@@ -1,56 +1,46 @@
 {
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 6,
+  "bottomRow": 138,
+  "disableLink": true,
   "displayName": "Text",
   "dynamicBindingPathList": [
     {
-      "key": "truncateButtonColor"
-    },
-    {
       "key": "fontFamily"
-    },
-    {
-      "key": "borderRadius"
     }
   ],
-  "dynamicHeight": "AUTO_HEIGHT",
+  "dynamicHeight": "FIXED",
   "dynamicTriggerPathList": [],
   "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
   "fontSize": "1.875rem",
-  "fontStyle": "",
+  "fontStyle": "BOLD",
   "hideCard": false,
   "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
   "isDeprecated": false,
   "isLoading": false,
   "isVisible": true,
-  "key": "eo9oc7ple7",
-  "leftColumn": 0,
+  "key": "nkrcthnrzv",
+  "leftColumn": 2,
   "maxDynamicHeight": 9000,
   "minDynamicHeight": 4,
-  "minWidth": 450,
-  "originalBottomRow": 6,
-  "originalTopRow": 1,
   "overflow": "NONE",
-  "parentColumnSpace": 23.578125,
+  "parentColumnSpace": 19.8125,
   "parentId": "0",
   "parentRowSpace": 10,
   "renderMode": "CANVAS",
-  "responsiveBehavior": "fill",
-  "rightColumn": 15,
+  "rightColumn": 16,
   "searchTags": [
     "typography",
     "paragraph",
     "label"
   ],
   "shouldTruncate": false,
-  "text": "Products",
+  "text": "Assets",
   "textAlign": "LEFT",
   "textColor": "#231F20",
-  "topRow": 1,
-  "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+  "topRow": 134,
   "type": "TEXT_WIDGET",
   "version": 1,
-  "widgetId": "px35omorzm",
-  "widgetName": "txt_productsTitle"
+  "widgetId": "g8crl5xhml",
+  "widgetName": "Text9Copy3"
 }
